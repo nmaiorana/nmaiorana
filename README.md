@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nmaiorana
+- 👋 Hi, I’m Nicola Maiorana
 - 👀 I’m interested in ... Machine Learning/Deep Learning
 - 🌱 I’m currently learning ... AI For Trading
 - 💞️ I’m looking to collaborate on ... Financial or economic problems
