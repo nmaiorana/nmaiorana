@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicola Maiorana
 - 👀 I’m interested in ... Machine Learning/Deep Learning
-- 🌱 I’m finished learning ... AI For Trading
+- 🌱 I’ve finished learning ... AI For Trading
 - 🌱 I’m curently learning ... Machine Learning for Algorithmic Trading
 - 💞️ I’m looking to collaborate on ... Financial or economic problems
 - 📫 How to reach me ... nmaiorana@gmail.com
